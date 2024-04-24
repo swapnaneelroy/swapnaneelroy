@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnaneel Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1zk2HB0XCIQUJixSeVWkQ0&ust=1714034840696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNin0cS72oUDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1zk2HB0XCIQUJixSeVWkQ0&ust=1714034840696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNin0cS72oUDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **Web development courses, Frameworks, etc.**
 
 - 📫 How to reach me **swapnaneelroy.dev@gmail.com**
